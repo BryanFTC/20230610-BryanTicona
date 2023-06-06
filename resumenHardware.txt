@@ -1,0 +1,3 @@
+Memoria RAM
+memoria ROM
+Memoria de almacenamiento secundario

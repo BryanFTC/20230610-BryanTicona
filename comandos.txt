@@ -1,0 +1,11 @@
+Utilice los siguientes comandos:
+git init
+git clone
+touch
+git add 
+git commit
+git push origin main
+git branch 
+git checkout 
+mkdir
+git mv
